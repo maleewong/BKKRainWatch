@@ -1,0 +1,1 @@
+{"generated": "2026-10-25T03:40+07:00", "v": "202610250358", "models_ok": ["ecmwf_ifs", "ukmo_global_deterministic_10km", "icon_global", "gfs_global", "cma_grapes_global", "ecmwf_aifs025_single", "ncep_aigfs025", "google_weathernext2_ensemble"], "start": "2026-10-24T07:00"}
